@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @White-Hacker-s
+- 👋 Hi, I’m Sujit Baral
 - 👀 I’m interested in web developing 
 - 🌱 I’m currently learning b tech in gec
 - 💞️ I’m looking to collaborate on website designing
